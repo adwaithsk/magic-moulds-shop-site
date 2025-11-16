@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #faf9f6;
+}
+
+nav {
+  background: #2d3748;
+  padding: 1em;
+  display: flex;
+  gap: 1em;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 2em;
+}
